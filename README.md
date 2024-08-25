@@ -85,84 +85,69 @@
     - **Description**: Breathtaking volcanic crater lake with deep blue water. Surrounded by steep, rugged cliffs. Lush greenery with rising steam.
     - **Impression**: Dramatic and awe-inspiring.
 
-#### People Descriptions
-1. **Young Woman (Long Brown Hair)**:
-   - **Appearance**: Long, straight, dark brown hair; deep brown almond-shaped eyes; oval face with high cheekbones and pointed chin. White blouse and blue jeans.
-   - **Expression**: Neutral expression; eyes straight ahead; lips slightly parted.
-   - **Impression**: Confident and poised, classic beauty.
+#### Descriptions of an image featuring one person:
 
-2. **Young Woman (Red Hair)**:
-   - **Appearance**: Long, flowing red hair; piercing green eyes; freckles across nose.
-   - **Expression**: Playful grin; sparkling eyes.
-   - **Impression**: Free-spirited and adventurous.
+1. **Professional Elegance:**
+   "A woman in her mid-thirties stands confidently at the entrance of the room. She is of East Asian descent, with sleek black hair styled into a professional bun. Her facial expression is calm and focused, with a hint of a smile that conveys both warmth and authority. She is dressed in a tailored navy blue suit, complemented by a crisp white blouse. Her posture is upright and poised, exuding a sense of assuredness. She wears a delicate silver necklace and matching stud earrings that add a touch of elegance to her overall look."
 
-3. **Middle-Aged Man (Beard)**:
-   - **Appearance**: Salt-and-pepper beard; kind eyes; tailored suit.
-   - **Expression**: Thoughtful frown; lips pursed.
-   - **Impression**: Reliable and intelligent.
+2. **Casual Comfort:**
+   "A young man in his early twenties sits casually on the park bench, his casual demeanor evident in his relaxed posture. He is of African descent, sporting short, curly hair that frames his face. His facial expression is one of contentment, with a broad smile that reflects his easygoing nature. He wears a light green hoodie over a graphic t-shirt and jeans, and his laid-back style is further highlighted by a pair of stylish sneakers. A simple gold chain around his neck adds a subtle touch of sophistication to his otherwise casual outfit."
 
-4. **Young Child**:
-   - **Appearance**: Short, curly blonde hair; rosy cheeks; colorful dress.
-   - **Expression**: Wide, innocent smile; eyes filled with wonder.
-   - **Impression**: Joyful and curious.
+3. **Graceful Wisdom:**
+   "An elderly woman in her seventies stands at the corner of the street, her posture slightly stooped with age. She is of Hispanic descent, with long, silver hair pulled back into a loose braid. Her facial expression is one of gentle serenity, with kind eyes that speak of a life well-lived. She is dressed in a flowing floral dress and a light cardigan, and her accessories include a pair of large, colorful beaded earrings and a matching bracelet. Her outfit and jewelry reflect a vibrant and graceful character, even in her later years."
 
-5. **Senior Citizen**:
-   - **Appearance**: Wrinkled skin; gray hair in a bun; cozy sweater.
-   - **Expression**: Gentle smile; eyes filled with wisdom.
-   - **Impression**: Kind and compassionate.
+4. **Modern Professional:**
+   "A middle-aged man of South Asian descent sits at the café table, his posture relaxed but attentive. His dark brown hair is neatly combed back, and his beard is trimmed short. His facial expression is one of concentration as he reviews his notes. He is dressed in a smart casual outfit consisting of a light blue button-down shirt and beige chinos. A sleek silver watch adorns his wrist, and a pair of understated glasses rests on the bridge of his nose, adding a touch of professionalism to his casual attire."
 
-6. **Person with Shaved Head**:
-   - **Appearance**: Shaved head; intricate tattoos on arms; leather jacket.
-   - **Expression**: Confident smirk; eyes fixed on the distance.
-   - **Impression**: Strong and independent.
+5. **Youthful Energy:**
+   "A teenage girl of Middle Eastern descent stands in the school hallway, her posture energetic and enthusiastic. Her long, wavy hair is dyed a bright shade of pink, and she has a radiant smile on her face. She wears a trendy denim jacket over a graphic tee and black leggings, with colorful sneakers completing her vibrant look. Her accessories include a stack of bracelets and a pair of hoop earrings, reflecting her playful and dynamic personality."
 
-7. **Person with Black Hair (Kimono)**:
-   - **Appearance**: Long, straight black hair; dark almond-shaped eyes; traditional kimono.
-   - **Expression**: Serene; eyes closed in meditation.
-   - **Impression**: Peaceful and spiritual.
+6. **Classic Sophistication:**
+   "A woman in her early forties sits gracefully in the theater lobby, her posture upright and composed. She is of European descent, with shoulder-length blonde hair styled in loose waves. Her facial expression is one of quiet confidence and poise. She wears an elegant black dress paired with a silver clutch and matching heels. Her jewelry includes a pair of diamond stud earrings and a delicate bracelet, enhancing her classic and sophisticated appearance."
 
-8. **Person with Pink Hair**:
-   - **Appearance**: Short, vibrant pink hair; bold eyeliner; colorful outfit.
-   - **Expression**: Confident smile; eyes full of energy.
-   - **Impression**: Creative and expressive.
+7. **Artistic Flair:**
+   "A young artist in their late twenties stands in their studio, their posture relaxed yet expressive. They are of mixed race, with curly hair dyed in a range of vibrant colors. Their facial expression is thoughtful and engaged, reflecting their deep immersion in their work. They wear a paint-splattered apron over a casual outfit of ripped jeans and a loose t-shirt. A pair of quirky, oversized glasses and a collection of eclectic rings add an artistic touch to their appearance."
 
-9. **Person with Mischievous Grin**:
-   - **Appearance**: Short, brown hair; dimples; casual T-shirt and jeans.
-   - **Expression**: Mischievous grin; eyes twinkling with humor.
-   - **Impression**: Fun-loving and playful.
+8. **Confident Entrepreneur:**
+   "A man in his early thirties strides through the office corridor with an air of determination. He is of Caucasian descent, with neatly trimmed dark hair and a well-groomed beard. His facial expression is one of focused ambition. He is dressed in a sharp grey suit with a crisp white shirt and a coordinating tie. His posture is assertive, and he wears a luxury watch and a pair of understated cufflinks, underscoring his professional success."
 
-10. **Person with Serious Expression**:
-    - **Appearance**: Short, dark hair; sharp features; formal suit.
-    - **Expression**: Serious; eyes focused on a task.
-    - **Impression**: Determined and goal-oriented.
+9. **Chic Casual:**
+   "A woman in her late twenties lounges at a café table, her posture relaxed and comfortable. She is of South Asian descent, with sleek straight hair styled into a low ponytail. Her facial expression is relaxed and content, enjoying the moment. She wears a stylish jumpsuit with a pair of chic sandals. Her minimalistic accessories include a delicate gold necklace and small hoop earrings, reflecting her effortlessly chic style."
 
-11. **Person with Gentle Smile**:
-    - **Appearance**: Long, curly blonde hair; soft features; flowing dress.
-    - **Expression**: Gentle smile; eyes filled with kindness.
-    - **Impression**: Caring and compassionate.
+10. **Vintage Charm:**
+   "An elderly man in his eighties sits on the porch, his posture slightly hunched but dignified. He is of Irish descent, with silver hair and a full beard. His facial expression is warm and welcoming, with a twinkle of nostalgia in his eyes. He wears a classic wool sweater over a plaid shirt and comfortable trousers. A pair of vintage round glasses and a pocket watch chain add a touch of charm and historical elegance to his appearance."
 
-12. **Person with Confident Pose**:
-    - **Appearance**: Short, dark hair; athletic build; workout attire.
-    - **Expression**: Confident pose; muscles tensed.
-    - **Impression**: Strong and determined.
+#### descriptions featuring two or three people in the same image:
 
-13. **Person with Dreamy Expression**:
-    - **Appearance**: Long, flowing hair; soft features; flowing dress.
-    - **Expression**: Dreamy; eyes gazing into the distance.
-    - **Impression**: Romantic and imaginative.
+1. **Weekend Stroll:**
+   "In a scenic park on a sunny afternoon, a couple enjoys a leisurely walk. The woman, in her late twenties and of Hispanic descent, has long, wavy hair and a relaxed smile. She is dressed in a flowing maxi dress and comfortable sandals. Beside her, the man, of Middle Eastern descent and also in his late twenties, sports a neatly trimmed beard and short hair. His casual outfit includes a light blue shirt and khaki shorts. Their easygoing posture and cheerful expressions reflect their enjoyment of the day together."
 
-14. **Person with Surprised Expression**:
-    - **Appearance**: Short, brown hair; wide eyes; casual outfit.
-    - **Expression**: Surprised; mouth agape.
-    - **Impression**: Curious and enthusiastic.
+2. **Family Reunion:**
+   "At a bustling family reunion, three generations come together. The grandmother, in her late seventies and of African descent, sits at the center with a warm, proud smile. Her silver hair is styled in a neat updo, and she wears a colorful, patterned dress with matching earrings. Next to her, her daughter, in her early fifties and of African descent, stands with a confident posture. She has short, styled hair and is dressed in a smart casual outfit of a blouse and trousers. Beside her, the granddaughter, around fifteen and of mixed race, laughs as she wears a trendy graphic tee and jeans, her curly hair pulled back into a ponytail. The family’s vibrant energy and close bond are evident in their interactions."
 
+3. **Coffee Break:**
+   "In a cozy café, a group of friends enjoys their coffee break. The woman, in her early thirties and of South Asian descent, sits with a relaxed posture. Her straight black hair is styled in loose waves, and she wears a casual blouse and jeans. Across from her, the man in his mid-thirties, of European descent, sports a neatly groomed beard and short hair. He is dressed in a button-down shirt and trousers, his thoughtful expression showing engagement in the conversation. The third member of the group, a woman in her late twenties of African descent, leans forward with a friendly smile. She wears a vibrant, patterned dress and her natural hair is styled in an afro. The camaraderie among them is evident in their lively conversation and shared laughter."
 
+4. **Team Collaboration:**
+   "In a bright, modern office space, a diverse team works together on a project. The team leader, a woman in her early forties and of East Asian descent, stands at the whiteboard, her sleek black hair in a professional bun. Her expression is focused and determined as she points to a strategy diagram. Seated at the table, a young man in his late twenties of South Asian descent, dressed in a casual shirt and jeans, takes notes with an attentive look. Next to him, a woman in her early thirties of African descent reviews documents, her curly hair in a neat updo. Their collaborative efforts and engagement are apparent as they work towards their common goal."
 
-15. **Person with Relaxed Posture**:
-    - **Appearance**: Medium-length hair; casual outfit; sitting comfortably.
-    - **Expression**: Relaxed; calm demeanor.
-    - **Impression**: Easy-going and approachable.
+5. **Outdoor Adventure:**
+   "On a hiking trail, a family enjoys the great outdoors. The father, in his late thirties and of Caucasian descent, leads the way with a determined stride. His short brown hair is covered by a baseball cap, and he is dressed in a moisture-wicking shirt and cargo pants. Beside him, his wife, in her early thirties and of Asian descent, follows closely, her long hair tied back in a ponytail. She wears a comfortable hiking outfit with a light jacket. Their young son, around eight years old and of mixed race, runs ahead with boundless energy, wearing a bright t-shirt and shorts. The family’s enthusiasm for adventure is reflected in their lively expressions and active postures."
 
+6. **Artistic Expression:**
+   "In a bustling art studio, a creative trio is at work. The artist, a woman in her late twenties of Middle Eastern descent, stands with a brush in hand, her long hair pulled back into a messy bun. Her face is concentrated as she applies paint to a large canvas, dressed in a paint-splattered apron over a casual outfit. Next to her, a man in his early thirties of European descent sits at a table, sketching intently with a focused look. He wears a simple shirt and jeans. A third member, a woman in her early forties of African descent, stands by the easel, offering feedback. Her well-styled hair and elegant dress contrast with the creative chaos around her, showcasing her role as a mentor."
+
+7. **Family Dinner:**
+   "At a festive family dinner, three generations come together. The grandfather, in his late seventies and of Italian descent, sits at the head of the table with a joyful smile. His silver hair is neatly combed, and he wears a classic sweater and dress pants. Beside him, his daughter, in her mid-fifties and of mixed heritage, engages in conversation. She has shoulder-length brown hair and is dressed in a stylish blouse and skirt. Across from her, the granddaughter, around twenty years old and of diverse descent, enjoys the meal with a bright smile. She wears a trendy dress and her long hair is styled in loose waves. The warmth and connection of the family are evident in their interactions and shared laughter."
+
+8. **Business Meeting:**
+   "In a sleek conference room, a business meeting unfolds with a diverse group. The CEO, a man in his early fifties of South Asian descent, stands at the head of the table with a confident demeanor. His neatly groomed beard and dark suit reflect his high status. Sitting to his left, a woman in her early forties of African descent reviews a presentation, her hair styled in a professional updo. She wears a tailored blazer and skirt. Across from her, a younger man in his late twenties of Hispanic descent takes notes attentively, dressed in a crisp dress shirt and tie. Their focused expressions and professional attire highlight the serious nature of the meeting."
+
+9. **Beach Day:**
+   "On a sunny beach, a lively family enjoys the day. The father, in his early forties and of Caucasian descent, is seen building a sandcastle with his young children. His short hair is tousled by the sea breeze, and he wears a casual swim trunk and a t-shirt. Beside him, the mother, in her early thirties and of Asian descent, relaxes under a beach umbrella, her long hair styled in a messy bun. She wears a colorful swimsuit and sunglasses. Their children, a boy of seven and a girl of five, both of mixed race, play in the sand with excited expressions, their bright swimwear adding a splash of color to the scene."
+
+10. **Library Study:**
+    "In a quiet library, three students are deeply engrossed in their studies. The first student, a woman in her early twenties and of African descent, sits at a table with a focused expression, her curly hair styled in a neat bun. She wears a comfortable sweater and jeans. Next to her, a man in his mid-twenties of South Asian descent, dressed in a hoodie and headphones, is absorbed in his laptop. His short hair is slightly disheveled, and his concentration is evident. The third student, a woman in her late twenties of Hispanic descent, stands by the bookshelf, selecting books with an organized demeanor. Her straight hair is neatly styled, and she wears a simple dress and cardigan. The trio’s dedication to their work is reflected in their calm and studious appearance."
 
 #### Posters
 
